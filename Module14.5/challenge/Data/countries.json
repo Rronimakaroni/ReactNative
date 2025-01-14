@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Malisheva",
+        "country": "Kosovo",
+        "description": "best tourist place in the world"
+    },
+    {
+        "id": 2,
+        "name": "Cairo",
+        "country": "Egypt",
+        "description": "Pyramids, big pyramids"
+    },
+    {
+        "id": 3,
+        "name": "Wall of China",
+        "country": "China (its in the name)",
+        "description": "massive wall"
+    },
+    {
+        "id": 4,
+        "name": "Pearl Harbour",
+        "country": "USA",
+        "description": "a lot of history"
+    }
+]
